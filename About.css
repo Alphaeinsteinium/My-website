@@ -1,0 +1,33 @@
+.About{
+background-color: #f1f1f1;
+padding: 27px;
+border-radius: 0px 45px 0px 45px;
+font-family: verdana;
+}
+h1.About{
+text-align: center;
+align-items: center;
+}
+img.person{
+width: 100%;
+object-fit: cover;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.social{
+text-align: center;
+align-items: center;
+}
+img.socials{
+width: 6%;
+height: 6%;
+display: inline;
+justify-content: space-around;
+padding: 8px;
+}
+p.credit{
+font-family: san-serif;
+font-size: 17px;
+text-align: center;
+}

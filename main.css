@@ -1,0 +1,36 @@
+*{
+padding: 0;
+margin: 0;
+}
+a{
+text-decoration: none;
+display: block;
+padding: 33px;
+font-family: san-serif;
+text-align: center;
+align-items: center;
+font-size: 18px;
+color: black;
+}
+a:visited{
+color: red;
+}
+a.back{
+float: right;
+font-size: 19px;
+}
+p{
+font-family: san-serif;
+font-size: 17px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
